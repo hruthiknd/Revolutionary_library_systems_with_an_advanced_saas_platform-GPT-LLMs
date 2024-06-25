@@ -6,11 +6,17 @@ Welcome to ProlificReader! This platform aims to revolutionize library systems b
 
 ## Features
 🗣️ Chatbot Interface: Natural language understanding and generation using OpenAI's GPT models.
+
 📄 PDF Document Processing: Upload and extract text content efficiently with the uploadthing library.
+
 🔍 Text Splitting: Utilize the langchain library for segmenting and analyzing text.
+
 🔐 User Authentication: Secure access with the Kinde authentication system.
+
 🗄️ Efficient Data Management: Store and retrieve data using the Neon database.
+
 🌐 Collaboration: Seamless integration with GitHub for version control and collaboration.
+
 🚀 Automated Deployment: Deploy effortlessly using Vercel.
 
 ## System Requirements
