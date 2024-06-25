@@ -86,8 +86,7 @@ Chat with the Bot: Use the chat interface to ask questions and receive answers b
 Access Documents: Retrieve and view processed documents from the database.
 
 ## Getting Started with Next.js
-This is a Next.js project bootstrapped with create-next-app.![B L Hemanth_Signature](https://github.com/hemanth1223/revolutionizing_library_systems_with_an_advanced_saas_platform-GPT-LLMs-LangChain/assets/86236166/61bb57df-822f-49ea-8abc-7ab5f828a858)
-
+This is a Next.js project bootstrapped with create-next-app.
 First, run the development server:
 ```bash
 npm run dev
